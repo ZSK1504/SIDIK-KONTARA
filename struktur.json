@@ -1,0 +1,296 @@
+[
+  {
+    "code": "ARK-01",
+    "name": "📜 REGULASI & DASAR HUKUM",
+    "children": [
+      {
+        "code": "ARK-01.01",
+        "name": "Peraturan Perundang-undangan",
+        "description": "UU, PP, Perpres terkait ideologi & kebangsaan",
+        "type": "Regulasi"
+      },
+      {
+        "code": "ARK-01.02",
+        "name": "Peraturan Daerah (Perda) terkait",
+        "description": "Perda Kabupaten Konawe Utara",
+        "type": "Regulasi"
+      },
+      {
+        "code": "ARK-01.03",
+        "name": "Surat Keputusan (SK) Kepala Badan",
+        "description": "SK internal dan eksternal",
+        "type": "Keputusan"
+      },
+      {
+        "code": "ARK-01.04",
+        "name": "Instruksi / Edaran",
+        "description": "Surat edaran dan instruksi dinas",
+        "type": "Surat Dinas"
+      }
+    ]
+  },
+  {
+    "code": "ARK-02",
+    "name": "📋 PROGRAM & KEGIATAN",
+    "children": [
+      {
+        "code": "ARK-02.01",
+        "name": "Rencana Kerja Tahunan (Renja)",
+        "description": "Renja per tahun anggaran",
+        "type": "Perencanaan"
+      },
+      {
+        "code": "ARK-02.02",
+        "name": "Laporan Pelaksanaan Kegiatan",
+        "description": "Laporan setiap kegiatan yang dilaksanakan",
+        "type": "Laporan"
+      },
+      {
+        "code": "ARK-02.03",
+        "name": "Dokumentasi Kegiatan (foto, video)",
+        "description": "Dokumentasi visual kegiatan",
+        "type": "Multimedia"
+      },
+      {
+        "code": "ARK-02.04",
+        "name": "Jadwal Kegiatan",
+        "description": "Kalender dan jadwal program",
+        "type": "Perencanaan"
+      }
+    ]
+  },
+  {
+    "code": "ARK-03",
+    "name": "🦅 IDEOLOGI PANCASILA",
+    "children": [
+      {
+        "code": "ARK-03.01",
+        "name": "Materi Sosialisasi Pancasila",
+        "description": "Bahan sosialisasi, presentasi, leaflet",
+        "type": "Materi"
+      },
+      {
+        "code": "ARK-03.02",
+        "name": "Laporan Kegiatan Pemantapan Ideologi",
+        "description": "Laporan setiap kegiatan pemantapan",
+        "type": "Laporan"
+      },
+      {
+        "code": "ARK-03.03",
+        "name": "Data Organisasi Masyarakat terkait",
+        "description": "Data Ormas yang berkaitan dengan ideologi",
+        "type": "Data"
+      },
+      {
+        "code": "ARK-03.04",
+        "name": "Hasil Survei / Penelitian",
+        "description": "Laporan survei kondisi ideologi",
+        "type": "Kajian"
+      }
+    ]
+  },
+  {
+    "code": "ARK-04",
+    "name": "🇮🇩 WAWASAN KEBANGSAAN",
+    "children": [
+      {
+        "code": "ARK-04.01",
+        "name": "Modul & Materi Pelatihan",
+        "description": "Modul Bimtek, diktat, materi ajar",
+        "type": "Materi"
+      },
+      {
+        "code": "ARK-04.02",
+        "name": "Laporan Bimtek / Diklat",
+        "description": "Laporan kegiatan pelatihan wawasan kebangsaan",
+        "type": "Laporan"
+      },
+      {
+        "code": "ARK-04.03",
+        "name": "Data Peserta Kegiatan",
+        "description": "Daftar hadir dan biodata peserta",
+        "type": "Data"
+      },
+      {
+        "code": "ARK-04.04",
+        "name": "Sertifikat & Piagam",
+        "description": "Scan sertifikat peserta dan narasumber",
+        "type": "Dokumen Resmi"
+      }
+    ]
+  },
+  {
+    "code": "ARK-05",
+    "name": "🌱 KARAKTER BANGSA",
+    "children": [
+      {
+        "code": "ARK-05.01",
+        "name": "Program Pembinaan Karakter",
+        "description": "Dokumen program dan rencana kegiatan",
+        "type": "Perencanaan"
+      },
+      {
+        "code": "ARK-05.02",
+        "name": "Data Sasaran / Penerima Manfaat",
+        "description": "Data kelompok sasaran kegiatan",
+        "type": "Data"
+      },
+      {
+        "code": "ARK-05.03",
+        "name": "Laporan Evaluasi",
+        "description": "Hasil evaluasi program karakter bangsa",
+        "type": "Laporan"
+      },
+      {
+        "code": "ARK-05.04",
+        "name": "Dokumentasi Kegiatan",
+        "description": "Foto dan video kegiatan pembinaan",
+        "type": "Multimedia"
+      }
+    ]
+  },
+  {
+    "code": "ARK-06",
+    "name": "✉️ SURAT MENYURAT",
+    "children": [
+      {
+        "code": "ARK-06.01",
+        "name": "Surat Masuk",
+        "description": "Seluruh surat masuk ke bidang",
+        "type": "Surat Dinas"
+      },
+      {
+        "code": "ARK-06.02",
+        "name": "Surat Keluar",
+        "description": "Seluruh surat keluar dari bidang",
+        "type": "Surat Dinas"
+      },
+      {
+        "code": "ARK-06.03",
+        "name": "Nota Dinas Internal",
+        "description": "Nota dinas antar unit di Kesbangpol",
+        "type": "Surat Internal"
+      },
+      {
+        "code": "ARK-06.04",
+        "name": "Surat Kerjasama / MoU",
+        "description": "Dokumen perjanjian kerjasama",
+        "type": "Perjanjian"
+      }
+    ]
+  },
+  {
+    "code": "ARK-07",
+    "name": "📊 LAPORAN & EVALUASI",
+    "children": [
+      {
+        "code": "ARK-07.01",
+        "name": "Laporan Bulanan",
+        "description": "Laporan realisasi kegiatan per bulan",
+        "type": "Laporan"
+      },
+      {
+        "code": "ARK-07.02",
+        "name": "Laporan Triwulan",
+        "description": "Laporan per 3 bulan",
+        "type": "Laporan"
+      },
+      {
+        "code": "ARK-07.03",
+        "name": "Laporan Tahunan",
+        "description": "Laporan kinerja tahunan bidang",
+        "type": "Laporan"
+      },
+      {
+        "code": "ARK-07.04",
+        "name": "LAKIP / LKjIP Bidang",
+        "description": "Laporan Akuntabilitas Kinerja",
+        "type": "Laporan Resmi"
+      }
+    ]
+  },
+  {
+    "code": "ARK-08",
+    "name": "📈 DATA & STATISTIK",
+    "children": [
+      {
+        "code": "ARK-08.01",
+        "name": "Data Ormas & LSM",
+        "description": "Database organisasi masyarakat dan LSM",
+        "type": "Data"
+      },
+      {
+        "code": "ARK-08.02",
+        "name": "Data Pemantauan Ideologi",
+        "description": "Hasil pemantauan kondisi ideologi daerah",
+        "type": "Data"
+      },
+      {
+        "code": "ARK-08.03",
+        "name": "Rekapitulasi Kegiatan",
+        "description": "Rekap seluruh kegiatan bidang",
+        "type": "Data"
+      },
+      {
+        "code": "ARK-08.04",
+        "name": "Peta Potensi Konflik",
+        "description": "Pemetaan potensi konflik sosial",
+        "type": "Kajian"
+      }
+    ]
+  },
+  {
+    "code": "ARK-09",
+    "name": "📚 REFERENSI & PUSTAKA",
+    "children": [
+      {
+        "code": "ARK-09.01",
+        "name": "Buku & Modul Kebangsaan",
+        "description": "Buku referensi kebangsaan dan ideologi",
+        "type": "Pustaka"
+      },
+      {
+        "code": "ARK-09.02",
+        "name": "Jurnal / Artikel",
+        "description": "Jurnal ilmiah dan artikel terkait",
+        "type": "Pustaka"
+      },
+      {
+        "code": "ARK-09.03",
+        "name": "Materi Narasumber",
+        "description": "Slide dan materi dari narasumber kegiatan",
+        "type": "Materi"
+      },
+      {
+        "code": "ARK-09.04",
+        "name": "Hasil Kajian",
+        "description": "Laporan dan dokumen hasil kajian bidang",
+        "type": "Kajian"
+      }
+    ]
+  },
+  {
+    "code": "ARK-10",
+    "name": "🤝 KERJASAMA & KOORDINASI",
+    "children": [
+      {
+        "code": "ARK-10.01",
+        "name": "Nota Kesepahaman (MoU)",
+        "description": "Dokumen MoU dengan instansi/lembaga lain",
+        "type": "Perjanjian"
+      },
+      {
+        "code": "ARK-10.02",
+        "name": "Laporan Koordinasi Lintas OPD",
+        "description": "Notulen dan laporan rapat koordinasi",
+        "type": "Laporan"
+      },
+      {
+        "code": "ARK-10.03",
+        "name": "Surat Rekomendasi",
+        "description": "Surat rekomendasi yang diterbitkan bidang",
+        "type": "Surat Dinas"
+      }
+    ]
+  }
+]
